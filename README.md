@@ -1,4 +1,4 @@
-## Snake Game em Python
+# Snake Game em Python
 
 Este é um simples jogo da cobrinha implementado em Python usando a biblioteca Pygame. O objetivo do jogo é controlar uma cobra em constante movimento, comendo a comida e evitando colidir com as paredes ou com o próprio corpo. A cada comida comida, a cobra cresce e o jogador ganha pontos. O jogo exibe a pontuação, o tempo decorrido e o tamanho da cobra durante a partida.
 
