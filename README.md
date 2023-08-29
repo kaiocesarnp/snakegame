@@ -26,3 +26,6 @@ Este é um simples jogo da cobrinha implementado em Python usando a biblioteca P
 5. Use as teclas de seta para movimentar a cobra e tente comer a comida para marcar pontos.
 
 Divirta-se jogando o clássico Jogo da Cobrinha!
+
+
+![Imagem do jogo](imagem.png)
